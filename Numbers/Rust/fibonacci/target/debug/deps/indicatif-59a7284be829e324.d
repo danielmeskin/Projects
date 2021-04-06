@@ -1,0 +1,12 @@
+/Users/daniel/Rust/Projects/fibonacci/target/debug/deps/indicatif-59a7284be829e324.rmeta: /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/daniel/Rust/Projects/fibonacci/target/debug/deps/libindicatif-59a7284be829e324.rlib: /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/daniel/Rust/Projects/fibonacci/target/debug/deps/indicatif-59a7284be829e324.d: /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs:
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs:
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs:
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs:
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs:
+/Users/daniel/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs:

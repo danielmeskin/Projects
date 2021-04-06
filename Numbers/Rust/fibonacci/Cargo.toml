@@ -1,0 +1,17 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["Daniel Meskin <github@dmeskin.xyz>"]
+edition = "2018"
+description = "Generate fibonacci numbers"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-bigint = "0.4"
+indicatif = "0.15.0"
+
+[package.metadata.bundle]
+name = "Fibonacci generator"
+identifier = "org.meskin.daniel.projects.fibonacci"
+description = "Generate fibonacci numbers"

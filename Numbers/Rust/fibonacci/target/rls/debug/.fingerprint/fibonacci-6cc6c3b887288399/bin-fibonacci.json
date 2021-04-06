@@ -1,0 +1,1 @@
+{"rustc":10676474257537015560,"features":"[]","target":3271376869374053108,"profile":14673113333635728996,"path":1036222786711178230,"deps":[[6497809270754851166,"num_bigint",false,15492077170602373568]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/fibonacci-6cc6c3b887288399/dep-bin-fibonacci"}}],"rustflags":[],"metadata":17457624412741064346,"config":0}
