@@ -1,0 +1,1 @@
+/Users/daniel/Documents/GitHub/Projects/Numbers/Rust/credit-card-validator-cheating/target/debug/credit-card-validator-cheating: /Users/daniel/Documents/GitHub/Projects/Numbers/Rust/credit-card-validator-cheating/src/main.rs
